@@ -2,7 +2,7 @@
 
 > Full-stack autonomous mobile robot built from scratch — custom embedded firmware, LiDAR SLAM navigation, and real-time sensor fusion on a $300 budget.
 
-**[▶️ Watch it navigate a real hallway →](https://youtube.com/shorts/yfjqP266TCM?feature=share)**
+**[▶️ Watch it navigate a real hallway →](https://youtube.com/shorts/yjfqP266TCM?feature=share)**
 
 ---
 
