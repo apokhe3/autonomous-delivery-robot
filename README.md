@@ -31,7 +31,7 @@ The LED matrix on the front displays the robot's navigation state — a delibera
 
 ## System Architecture
 
-![Embedded System Architecture](images/Embedded%20System%20Architecture.png)
+![Embedded System Architecture](images/Embedded_System_Architecture.png)
 
 The system separates real-time hardware control from high-level autonomy across two compute layers:
 
